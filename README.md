@@ -16,25 +16,27 @@ If you use gem, just type `gem install gmail`.
 
 1. Get latest code.
 
-`git clone https://github.com/yasulab/weekly-report-bot.git`
+   `git clone https://github.com/yasulab/weekly-report-bot.git`
 
 2. Fill out your info in `./text/*` files.
 
 3. Setup your cron.
 
-`crontab -e`
+   `crontab -e`
 
-### Example
+   Example:
 
-- Every minite (for debug):
+   - Every minite (for debug):
 
-`* * * * * /bin/sh ~/weekly-report/cron.sh`
+     `* * * * * /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
-- Every Monday 7am:
+   - Every Monday 7am:
 
-`0 7 * * 1 /bin/sh ~/weekly-report/cron.sh`
+     `0 7 * * 1 /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
-4. Done! From now, this bot sends email with given information periodically.
+4. Done! 
+
+From now, this bot sends email with given information periodically.
 
 # License
 
