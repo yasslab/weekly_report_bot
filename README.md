@@ -32,17 +32,17 @@ But the introduced system is not opensource. So I created this.
 
    `crontab -e`
 
-    Example:
+   Example:
 
-    - Every minite (for debug):
+   - Every minite (for debug):
 
-      `* * * * * /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
+     `* * * * * /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
-    - Every Monday 7am:
+   - Every Monday 7am:
 
-      `0 7 * * 1 /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
+     `0 7 * * 1 /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
-4. Done! 
+Done! 
 
 From now, this bot sends email with given information periodically.
 
