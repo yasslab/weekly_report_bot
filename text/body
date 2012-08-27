@@ -1,0 +1,32 @@
+Hi there!
+
+I am a weekly report bot :-[]
+Please teach me what you've done last week,
+and what you'll do this week via Reply.
+
+
+# Example
+
+[what I've done this week]
+1. fix layout break in a landing page #141
+2. study how to write tests by Jasmine
+3. write tests for User model 
+
+[what I'll do next week]
+1. implement Firefox plugin
+2. build CI server with Jenkins
+3. prepare for a presentation in Tokyo
+
+[random thoughts]
+I found this article last Sunday, and I think 
+this weekly reporting system has positive
+influence on our project. Check this out.
+http://blog.idonethis.com/post/16736314554/silicon-valleys-productivity-secret
+
+[EOF]
+
+
+See you next week :-[]
+
+Thanks,
+WRB
