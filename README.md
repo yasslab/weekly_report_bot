@@ -18,7 +18,7 @@ But the introduced system is not opensource. So I created this.
 
 2. [Ruby Gmail](http://dcparker.github.com/ruby-gmail/) 
 
-If you use gem, just type `gem install gmail`.
+    If you use Gem, just type `gem install gmail`.
 
 ## How to use
 
@@ -32,15 +32,15 @@ If you use gem, just type `gem install gmail`.
 
    `crontab -e`
 
-   Example:
+    Example:
 
-   - Every minite (for debug):
+    - Every minite (for debug):
 
-     `* * * * * /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
+      `* * * * * /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
-   - Every Monday 7am:
+    - Every Monday 7am:
 
-     `0 7 * * 1 /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
+      `0 7 * * 1 /bin/sh ~/weekly-report/cron.sh >> ~/log/weekly-report.log 2>&1`
 
 4. Done! 
 
