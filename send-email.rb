@@ -44,8 +44,7 @@ puts "============="
 puts "#{body_text}"
 puts "====[EOF]===="
 
-puts "debug exit ...\n"
-exit
+# puts "debug exit ...\n"; exit
 
 # send email and quit
 puts "start sending email ..."
