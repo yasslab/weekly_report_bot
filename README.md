@@ -46,7 +46,7 @@ It's because the following article makes sense to me and I really want to use su
 
 But the introduced system is not opensource. So I created this.
 
-## Related Repository
+## Related Repositories
 
 1. [Weekly Report Bot](https://github.com/yasulab/weekly_report_bot)
 2. [Weekly Report Helper](https://github.com/yasulab/weekly_report_helper)
