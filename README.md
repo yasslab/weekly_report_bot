@@ -46,10 +46,11 @@ It's because the following article makes sense to me and I really want to use su
 
 But the introduced system is not opensource. So I created this.
 
-## References
+## Related Repository
 
-- [Weekly Report Helper](https://github.com/yasulab/weekly_report_helper)
-- [Weekly Shit Report](https://gist.github.com/3175212)
+1. [Weekly Report Bot](https://github.com/yasulab/weekly_report_bot)
+2. [Weekly Report Helper](https://github.com/yasulab/weekly_report_helper)
+3. [Weekly Report Launcher](https://github.com/yasulab/weekly_report_launcher)
 
 ## License
 
