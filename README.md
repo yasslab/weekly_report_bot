@@ -50,7 +50,7 @@ But the introduced system is not opensource. So I created this.
 
 1. [Weekly Report Bot](https://github.com/yasulab/weekly_report_bot)
 2. [Weekly Report Helper](https://github.com/yasulab/weekly_report_helper)
-3. [Weekly Report Launcher](https://github.com/yasulab/weekly_report_launcher)
+3. [Weekly Report Sender](https://github.com/yasulab/weekly_report_sender)
 
 ## License
 
