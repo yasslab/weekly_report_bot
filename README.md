@@ -2,7 +2,7 @@
 
 A bot that periodically sends email to a given address.
 
-![Screen Shot](https://dl.dropbox.com/u/2819285/wrb-ss.png)
+![Screen Shot](https://github.com/yasslab/weekly_report_bot/blob/master/wrb_ss.png?raw=true)
 
 ## Requiments
 
